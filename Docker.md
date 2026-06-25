@@ -2,9 +2,9 @@
 
 
 
-# 1. Setup MariaDB 
+# 1. Setup Database 
 
-- Create MariaDB instance using AWS RDS.
+- Create MySql instance using AWS RDS.
 - Connect to your RDS instance f:
 
 ```bash
