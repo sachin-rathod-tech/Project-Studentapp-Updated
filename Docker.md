@@ -61,7 +61,7 @@ git clone https://github.com/sachin-rathod-tech/Project-Studentapp-Updated.git
 ```
 - Navigate to the backend directory:
 
-```bash
+``` bash
 cd Project-Studentapp-Updated/Backend
 ```
 
