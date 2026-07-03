@@ -75,6 +75,9 @@ cd Project-Studentapp-Updated/Backend
 
 #### edit Dockerfile
 - add database endpoint
+- ```
+  vim Dockerfile
+  ```bash
 
 ```Dockerfile
 FROM maven:3.9.6-eclipse-temurin-17 AS builder
