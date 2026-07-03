@@ -11,7 +11,7 @@
 sudo apt update
 sudo apt install mysql-client -y
 sudo apt install docker.io -y
-sudo systemtl start docker
+sudo systemctl start docker
 sudo usermod -aG docker sachin
 su - sachin
 newgrp docker
