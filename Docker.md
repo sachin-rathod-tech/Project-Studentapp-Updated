@@ -61,7 +61,7 @@ git clone https://github.com/sachin-rathod-tech/Project-Studentapp-Updated.git
 ```
 - Navigate to the backend directory:
 
-``` bash
+```bash
 cd Project-Studentapp-Updated/Backend
 ```
 
@@ -75,9 +75,10 @@ cd Project-Studentapp-Updated/Backend
 
 #### edit Dockerfile
 - add database endpoint
+- 
 - ```
   vim Dockerfile
-  ```bash
+  ```
 
 ```Dockerfile
 FROM maven:3.9.6-eclipse-temurin-17 AS builder
